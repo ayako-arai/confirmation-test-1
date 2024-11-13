@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inika", serif;
+}
+
+.contact-form {
+    max-width: 972px;
+    height: 606px;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #8B7969;
+}
+
+.contact-form__title {
+    color: #8B7969;
+    font-size: 35px;
+    font-weight:400;
+    line-height: 45.61px;
+    text-align: center;
+    }
+
+.contact-table {
+    margin: 0 auto;
+    width: 972px;
+    height: 606px;
+    margin-bottom: 20px;
+    }
+
+.contact-item,
+.contact-body {
+    padding: 20px;
+}
+
+.contact-item {
+    text-align: left;
+    width: 30%;
+}
+
+.contact-body {
+    width: 70%;
+}
+
+
+
+.form-text + .form-textarea {
+    background-color: #c0b5b5;
+
+}
+
+span {
+    color: red;
+}
+
+.contact-sex-txt {
+    color: #8B7969;
+}
+
+.form__button {
+    margin: 0 auto;
+}
+
+.form__button-submit {
+    width: 160;
+    background-color: #82756A;
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: 400;
+    display:;
+    padding:10px 40px;
+    cursor: pointer;
+    color: white;
+
+}

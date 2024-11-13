@@ -1,0 +1,23 @@
+header {
+    max-width: 1512px;
+    border-bottom: 1px solid;
+    border-color: #E0DFDE;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding:10px;
+    max-width: 1512px;
+    height: 100px;
+}
+
+.header__title {
+    color: #8B7969;
+    text-decoration: none;
+    font-family: "Inika",serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    line-height: 52.12px;
+}

@@ -1,0 +1,48 @@
+.confirm__content {
+    margin: 0 auto;
+    max-width: 1512px;
+    height: 100px;
+}
+
+.confirm__heading.h3 {
+    font-family: "Inika", serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: #8B7969;
+    line-height: 52.12px;
+}
+
+.confirm-table {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.confirm-table__row, .confirm-table__text {
+    width: 100%;
+    padding:10px 30px;
+}
+
+.confirm-table__row {
+    background-color: #BAA899;
+    border-bottom: ;
+    height: 69.92px;
+
+}
+
+.confirm-table__header {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26.06px;
+    text-align: left;
+    width: 30%;
+}
+
+.confirm-table__text {
+    color:#8B7969;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26.06px;
+    text-align: left;
+    width: 70%;
+}
