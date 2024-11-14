@@ -74,6 +74,7 @@
         <div class="form__button">
             <button class="btn" type="submit" name="submit">送信</button>
             <input class="btn" type="button" value="修正" onclick="history.back(-1)">
+            
         </div>
     </form>
 </div>
